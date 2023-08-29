@@ -8,3 +8,4 @@ para ejecutarlo
 Producrion 
 1 ejecutar ''' npm run build '''
 2. tomar carpeta '''dist''y desplegarla para el servidor 
+3. new 
